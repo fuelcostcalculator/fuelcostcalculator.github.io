@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fuelcostcalculator.github.io/sitemap.xml
